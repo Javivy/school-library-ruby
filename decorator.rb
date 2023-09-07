@@ -1,4 +1,4 @@
-require_relative "./nameable.rb"
+require_relative 'nameable'
 
 class Decorator
   def initialize(nameable)
@@ -6,6 +6,6 @@ class Decorator
   end
 
   def correct_name
-    return @nameable.correct_name
+    @nameable.correct_name
   end
 end
