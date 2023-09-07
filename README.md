@@ -102,7 +102,7 @@ Install this project with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Key Features <a name="key-features"></a>
+### Future Features <a name="future-features"></a>
 
 - **Add more classes**
 - **Add more methods**
