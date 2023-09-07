@@ -102,6 +102,13 @@ Install this project with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features <a name="key-features"></a>
+
+- **Add more classes**
+- **Add more methods**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHOR -->
 
 ## 👥 Author <a name="authors"></a>
