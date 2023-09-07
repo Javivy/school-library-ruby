@@ -19,6 +19,10 @@ class Person < Nameable
     end
   end
 
+  def correct_name
+    return @nameable.correct_name
+  end
+
   private
 
   def of_age?
