@@ -144,12 +144,9 @@ class App
 
     puts 'Rentals: '
     @rentals.each do |rental|
-      if rental.is_a?(Book)
-        next
-      end
-      puts("Date: #{rental.date}, Book '#{rental.book.title}' by #{rental.book.author}") if rental.person.id == id
+      next if rental.is_a?(Book)
 
-      
+      puts("Date: #{rental.date}, Book '#{rental.book.title}' by #{rental.book.author}") if rental.person.id == id
     end
   end
 end
